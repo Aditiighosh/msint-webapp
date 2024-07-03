@@ -7,6 +7,8 @@ This web application predicts the number that you have drawn on the canvas from 
 - Draw digits on a canvas and get real-time predictions.
 - Train the model directly from the web interface if the model does not exist.
 - Visualize the input image and prediction results.
+- Select and view sample images from the MNIST dataset and see predictions directly.
+
 
 ## Requirements
 
