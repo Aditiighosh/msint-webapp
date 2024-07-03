@@ -2,3 +2,4 @@ tensorflow==2.15.0
 opencv-python-headless
 streamlit
 streamlit-drawable-canvas
+matplotlib
