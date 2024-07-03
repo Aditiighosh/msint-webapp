@@ -79,7 +79,7 @@ You can also test the application online at the following URL: [Handwritten Digi
 Additionally, here is the `requirements.txt` file content for reference:
 
 ```
-plaintext
+matplotlib
 tensorflow
 streamlit
 opencv-python
